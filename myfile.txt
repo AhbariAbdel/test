@@ -22,3 +22,4 @@ eleventh line and eleventh commit
 22 line and 22 commit
 23 line and 23 commit
 24 line and 24 commit
+25 line and 25 commit
