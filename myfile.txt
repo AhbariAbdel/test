@@ -5,3 +5,4 @@ fourth line and fourth commit
 fifth line and fifth commit
 sixth line and sixth commit
 seventh line and seventh commit
+eighth line and eighth commit
